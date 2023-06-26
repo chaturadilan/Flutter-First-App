@@ -1,4 +1,4 @@
-# flutter_first_app
+# flutter_first_app (Lecture 01)
 
 A new Flutter project.
 
